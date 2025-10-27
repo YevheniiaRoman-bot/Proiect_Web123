@@ -1,8 +1,11 @@
 # Proict-Web-123 
+
 # Despre ce proiectul meu
-## **Ce face proiectul?** Proiectul demonstreaza procesul de creare, versionare si publicare a unui cod sursa folosind GitHub
-## **De ce a fost creat?** Proiectul a fost creat pentru a invata si expresia principiile managmentului codului
-## **Cum se instaleaza?** 
+# **Ce face proiectul?** 
+- Proiectul demonstreaza procesul de creare, versionare si publicare a unui cod sursa folosind GitHub
+# **De ce a fost creat?** 
+- Proiectul a fost creat pentru a invata si expresia principiile managmentului codului
+# **Cum se instaleaza?** 
 - Se instaleaza Git
 - Se instaleaza Visual Studio
 - Se descarca sau se cloneaza repository-ul din GitHub
