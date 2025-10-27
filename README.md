@@ -1,6 +1,6 @@
 # Proict-Web-123 
 ![github](https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain.jpg)
-# Despre ce proiectul meu**
+# **Despre ce proiectul meu**
 - Proiectul demonstreaza procesul de creare, versionare si publicare a unui cod sursa folosind GitHub
 # **Ce face proiectul?** 
 - Proiectul demonstreaza procesul de creare, versionare si publicare a unui cod sursa folosind GitHub
